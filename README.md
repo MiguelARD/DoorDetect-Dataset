@@ -1,4 +1,4 @@
-# DetectDoor Dataset
+# DoorDetect Dataset
 DetectDoor is a dataset of 1,213 images that have been annotated with object bounding boxes. The images are very diverse and often contain complex scenes with several objects. 
 
 
