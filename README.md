@@ -26,7 +26,7 @@ Where:
 
 
 ## YOLO with DoorDetect
-The dataset can be used for training and testing an object detection CNN such as [YOLO](https://pjreddie.com/darknet/yolo/). Weights can be downloaded from: [YOLO_weights](https://drive.google.com/open?id=1i9E9pTPN5MtRxgBJWLnfQl2ypCv92dXk) (mAP=45%). 
+The dataset can be used for training and testing an object detection CNN such as [YOLO](https://pjreddie.com/darknet/yolo/). Weights for detecting doors and handles with YOLO can be downloaded from: [YOLO_weights](https://drive.google.com/open?id=1i9E9pTPN5MtRxgBJWLnfQl2ypCv92dXk) (mAP=45%). 
 
 ![alt text](/readme_figures/Fig4.png)
 
