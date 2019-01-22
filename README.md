@@ -15,7 +15,7 @@ The identified object classes are: ***handle***; ***door***, which refers to any
 
 
 ## Labels
-The object location is specified by the coordinates of its bounding box. Boxes were marked using Yolo_mark (https://github.com/AlexeyAB/Yolo_mark). There is a .txt file for each image with the same name. Each line in the label file is of the form: `<object-class> <x> <y> <width> <height>`
+The object location is specified by the coordinates of its bounding box. Boxes were marked using Yolo_mark (https://github.com/AlexeyAB/Yolo_mark). There is a .txt file for each image with the same name. Each line in the label file is of the form: `<object-class> <x> <y> <width> <height>`.
 
 Where:
 * `<object-class>`: integer number of object. (0) *door*; (1) *handle*; (2) *cabinet door*; (3) *refrigerator door*.
