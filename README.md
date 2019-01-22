@@ -5,13 +5,13 @@ DetectDoor is a dataset of 1,213 images that have been annotated with object bou
 ## Images
 The images annotated are from Open Images Dataset V4 (https://storage.googleapis.com/openimages/web/index.html) and MCIndoor20000 (https://github.com/bircatmcri/MCIndoor20000).
 
-![alt text](https://raw.githubusercontent.com/MiguelARD/DetectDoor_Dataset/master/readme_figures/Fig1.png)
+![alt text](/readme_figures/Fig1.png)
 
 
 ## Object Classes 
 The identified object classes are: ***handle***; ***door***, which refers to any room door; ***cabinet door***, which refers to any drawer or small door; and ***refrigerator door***, which refers to any door in a refrigerator.  
 
-![alt text](https://raw.githubusercontent.com/MiguelARD/DetectDoor_Dataset/master/readme_figures/Fig2.png)
+![alt text](/readme_figures/Fig2.png)
 
 
 ## Labels
@@ -22,5 +22,5 @@ Where:
 * `<x> <y> <width> <height>`: float values relative to width and height of the image.
 * `<x> <y>`: center of the box.
 
-![alt text](https://raw.githubusercontent.com/MiguelARD/DetectDoor_Dataset/master/readme_figures/Fig3.png)
+![alt text](/readme_figures/Fig3.png)
 
