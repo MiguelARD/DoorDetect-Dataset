@@ -26,7 +26,7 @@ Where:
 
 
 ## YOLO with DoorDetect
-The dataset can be used for training and testing an object detection CNN such as [YOLO](https://pjreddie.com/darknet/yolo/). Weights for detecting doors and handles with YOLO can be downloaded from: [YOLO_weights](https://drive.google.com/open?id=1i9E9pTPN5MtRxgBJWLnfQl2ypCv92dXk) (mAP=45%). For running YOLO you will also need the network configuration file [yolo-obj.cfg](https://github.com/MiguelARD/DoorDetect-Dataset/blob/master/yolo-obj.cfg).
+The dataset can be used for training and testing an object detection CNN such as [YOLO](https://pjreddie.com/darknet/yolo/). Weights for detecting doors and handles with YOLO can be downloaded from: [YOLO_weights](https://drive.google.com/open?id=1i9E9pTPN5MtRxgBJWLnfQl2ypCv92dXk) (mAP=45%). For running YOLO you might also need the network configuration file [yolo-obj.cfg](https://github.com/MiguelARD/DoorDetect-Dataset/blob/master/yolo-obj.cfg) and a text file where the detected classes names and their order is specified [obj.names](https://github.com/MiguelARD/DoorDetect-Dataset/blob/master/obj.names).
 
 ![alt text](/readme_figures/Fig4.png)
 
