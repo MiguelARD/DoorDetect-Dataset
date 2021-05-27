@@ -34,14 +34,18 @@ The dataset can be used for training and testing an object detection CNN such as
 Please cite the paper in your publications if it helps your research.
 
 ```
-  @misc{arduengo2019robust,
-      title={Robust and Adaptive Door Operation with a Mobile Manipulator Robot},
-      author={Miguel Arduengo and Carme Torras and Luis Sentis},
-      year={2019},
-      eprint={1902.09051},
-      archivePrefix={arXiv},
-      primaryClass={cs.RO}
-    }
+@article{Arduengo_2021,
+   title={Robust and adaptive door operation with a mobile robot},
+   ISSN={1861-2784},
+   url={http://dx.doi.org/10.1007/s11370-021-00366-7},
+   DOI={10.1007/s11370-021-00366-7},
+   journal={Intelligent Service Robotics},
+   publisher={Springer Science and Business Media LLC},
+   author={Arduengo, Miguel and Torras, Carme and Sentis, Luis},
+   year={2021},
+   month={May}
+}
+
 ```
 
-Link to the paper: [Robust and Adaptive Door Operation with a Mobile Manipulator Robot](https://arxiv.org/abs/1902.09051)
+Link to the paper: [Robust and Adaptive Door Operation with a Mobile Robot](https://link.springer.com/article/10.1007/s11370-021-00366-7)
